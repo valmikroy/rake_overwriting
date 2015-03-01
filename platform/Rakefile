@@ -1,0 +1,8 @@
+#!/usr/bin/env ruby
+#
+
+task(:x) { puts "x" }
+task(:y) { puts "y" }
+task(:z) { puts "z" }
+
+
